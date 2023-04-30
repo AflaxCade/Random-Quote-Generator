@@ -32,4 +32,4 @@ If you'd like to contribute to the RandomQuoteGenerator app, feel free to fork t
 
 ## License
 
-The RandomQuoteGenerator app is licensed under the [MIT License](LICENSE.md).
+The RandomQuoteGenerator app is licensed under the [MIT License](LICENSE).
