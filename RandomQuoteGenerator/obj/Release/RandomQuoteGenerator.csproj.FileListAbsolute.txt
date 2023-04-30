@@ -1,0 +1,15 @@
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\RandomQuoteGenerator.exe.config
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\RandomQuoteGenerator.exe
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\RandomQuoteGenerator.pdb
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\Guna.UI2.dll
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\Newtonsoft.Json.dll
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Release\Newtonsoft.Json.xml
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.csproj.AssemblyReference.cache
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.Form1.resources
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.Properties.Resources.resources
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.csproj.GenerateResource.cache
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.csproj.CopyComplete
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.exe
+C:\Users\aflax\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Release\RandomQuoteGenerator.pdb
